@@ -124,7 +124,6 @@ public class FaceCompareActivity extends BaseActivity implements View.OnClickLis
             e.printStackTrace();
         }
         finally {
-            tip("标记完成");
         }
     }
 
